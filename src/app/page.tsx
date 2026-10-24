@@ -25,7 +25,7 @@ export default function HomePage() {
             <div className="text-3xl mb-3">📝</div>
             <h3 className="text-xl font-semibold text-memento-800 mb-2">Write Notes</h3>
             <p className="text-memento-600">
-              Capture thoughts, advice, and love letters for your children's future
+              Capture thoughts, advice, and love letters for your children&apos;s future
             </p>
           </div>
           
